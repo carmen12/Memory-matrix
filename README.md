@@ -1,4 +1,4 @@
-# Awesome-Memory-Game
+# Memory-matrix-Game
 A card flipping memory game made with HTML5, CSS3 and jQuery.
 
 The human brain is able to continually adapt and rewire itself, even at an old age, it can grow new neurons.
